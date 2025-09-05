@@ -1,44 +1,41 @@
 <table>
 <tr>
-<td width="250" valign="top">
+<td width="300" valign="top">
 
 <!-- Left Sidebar -->
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="200" style="border-radius:50%;" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/150905674?s=400&u=f5bed3062b19b99d86bcac5905634f0bfd826c32&v=4" width="150" style="border-radius:50%;" />
+</p>
 
-<p>
-💻 Implementing Ideas @ YourCompany<br>
+<p align="center">
+  [![Follow @YAHINAJM on GitHub](https://img.shields.io/github/followers/YAHINAJM?label=Follow&style=social)](https://github.com/YAHINAJM)
+</p>
+
+<p align="center">
+💻 Implementing Ideas @ MeasureOne<br>
 🕵️‍♀️ Web Dev | Data Science | AI and ML<br>
 ✍ DSA + CP (Learning and practicing)<br>
-🎓 CSE Graduand @ YourCollege
+🎓 CSE Graduand @ SVIIT'22<br>
+📍 Madhya Pradesh - India<br>
+📧 <a href="mailto:yahia.najm@example.com">yahia.najm@example.com</a><br>
+🌐 <a href="https://your-portfolio.com">Portfolio</a><br>
+🔗 <a href="https://linkedin.com/in/YAHINAJM">LinkedIn</a><br>
+🐦 <a href="https://twitter.com/YAHINAJM">@YAHINAJM</a>
 </p>
 
-<p>
-282 followers · 1 following<br>
-YourCompany Inc.<br>
-Madhya Pradesh - India<br>
-21:54 - 4h30m ahead<br>
-<a href="mailto:youremail@gmail.com">youremail@gmail.com</a><br>
-<a href="https://your-portfolio-link.com">Portfolio</a><br>
-<a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a><br>
-<a href="https://twitter.com/yourtwitter">@yourtwitter</a>
-</p>
-
-<p>
+<p align="center">
 <b>Achievements</b><br>
-Achievement: Starstruckx2<br>
-Achievement: Quickdraw<br>
-Achievement: Pull Sharkx2<br>
-Achievement: YOLO
+Starstruck x2 | Quickdraw | Pull Shark x2 | YOLO
 </p>
 
-<p>
+<p align="center">
 <b>Highlights</b><br>
 Developer Program Member
 </p>
 
-<p>
+<p align="center">
 <b>Organizations</b><br>
-@org1 @org2 @org3
+@dwyl @fnplus @Recyclero @zero-to-mastery @codezoned @github-craftwork @slurpcode @ModernAppsNinja @EddieHubCommunity
 </p>
 
 </td>
@@ -47,7 +44,7 @@ Developer Program Member
 
 <!-- Right Column: Main Content -->
 
-<h1 align="center">Hello, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hello, I'm YAHIA NAJM 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364ffda&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -57,7 +54,7 @@ Developer Program Member
 
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YAHINAJM&theme=tokyonight" alt="streak stats" />
 </p>
 
 <h2 align="center">🛠️ My Favorite Tools</h2>
@@ -111,17 +108,17 @@ Developer Program Member
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YAHINAJM&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHINAJM&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
 <p align="center">
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">🐙 GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> •
-  <a href="https://instagram.com/YOUR_INSTAGRAM">📸 Instagram</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">✉️ Gmail</a>
+  <a href="https://your-portfolio.com">🌐 Portfolio</a> •
+  <a href="https://github.com/YAHINAJM">🐙 GitHub</a> •
+  <a href="https://linkedin.com/in/YAHINAJM">💼 LinkedIn</a> •
+  <a href="https://instagram.com/YAHINAJM">📸 Instagram</a> •
+  <a href="mailto:yahia.najm@example.com">✉️ Gmail</a>
 </p>
 
 </td>
