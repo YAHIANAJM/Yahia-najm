@@ -1,17 +1,19 @@
 <table>
 <tr>
-<td width="300" valign="top">
+<td width="250" valign="top" style="text-align:center; padding-right:20px;">
 
 <!-- Left Sidebar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/150905674?s=400&u=f5bed3062b19b99d86bcac5905634f0bfd826c32&v=4" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/150905674?s=400&u=f5bed3062b19b99d86bcac5905634f0bfd826c32&v=4" width="150" style="border-radius:50%; border:2px solid #64ffda;" />
 </p>
 
 <p align="center">
-  [![Follow @YAHINAJM on GitHub](https://img.shields.io/github/followers/YAHINAJM?label=Follow&style=social)](https://github.com/YAHINAJM)
+  <a href="https://github.com/YAHINAJM">
+    <img src="https://img.shields.io/badge/Follow-YAHINAJM-0f111a?style=for-the-badge&logo=github&logoColor=white" alt="Follow Button" />
+  </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:12px;">
 💻 Implementing Ideas @ MeasureOne<br>
 🕵️‍♀️ Web Dev | Data Science | AI and ML<br>
 ✍ DSA + CP (Learning and practicing)<br>
@@ -20,21 +22,21 @@
 📧 <a href="mailto:yahia.najm@example.com">yahia.najm@example.com</a><br>
 🌐 <a href="https://your-portfolio.com">Portfolio</a><br>
 🔗 <a href="https://linkedin.com/in/YAHINAJM">LinkedIn</a><br>
-🐦 <a href="https://twitter.com/YAHINAJM">@YAHINAJM</a>
+🐦 <a href="https://twitter.com/YAHINAJM">Twitter</a>
 </p>
 
-<p align="center">
-<b>Achievements</b><br>
-Starstruck x2 | Quickdraw | Pull Shark x2 | YOLO
+<p align="center" style="font-size:12px;">
+<b>Achievements:</b><br>
+⭐ Starstruck x2 | Quickdraw | Pull Shark x2 | YOLO
 </p>
 
-<p align="center">
-<b>Highlights</b><br>
+<p align="center" style="font-size:12px;">
+<b>Highlights:</b><br>
 Developer Program Member
 </p>
 
-<p align="center">
-<b>Organizations</b><br>
+<p align="center" style="font-size:12px;">
+<b>Organizations:</b><br>
 @dwyl @fnplus @Recyclero @zero-to-mastery @codezoned @github-craftwork @slurpcode @ModernAppsNinja @EddieHubCommunity
 </p>
 
@@ -69,9 +71,6 @@ Developer Program Member
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" />
 </p>
 
 <h3 align="center">🧰 Frameworks and Libraries</h3>
