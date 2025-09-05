@@ -7,9 +7,13 @@
   <img src="https://avatars.githubusercontent.com/u/150905674?s=400&u=f5bed3062b19b99d86bcac5905634f0bfd826c32&v=4" width="150" height="150" style="border-radius:50%;" />
 </p>
 
+<p align="center" style="font-weight:bold; font-size:18px; margin:5px 0;">
+  YAHIA NAJM
+</p>
+
 <p align="center">
   <a href="https://github.com/YAHINAJM">
-    <img src="https://img.shields.io/badge/Follow-YAHINAJM-0f111a?style=for-the-badge&logo=github&logoColor=white" alt="Follow Button" />
+    <img src="https://img.shields.io/badge/Follow-YAHIANAJM-0f111a?style=for-the-badge&logo=github&logoColor=white" alt="Follow Button" />
   </a>
 </p>
 
@@ -71,7 +75,21 @@
 
 <h2 align="center">🛠️ My Favorite Tools</h2>
 <p align="center" style="font-size:14px; line-height:1.6;">
-• Python • Java • C • C++ • JavaScript • TypeScript • HTML5 • CSS3 • NodeJS • React • Angular • Flask • TensorFlow • NumPy • Pandas
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">Python</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">Java</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">C</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">C++</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">JavaScript</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">TypeScript</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">HTML5</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">CSS3</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">NodeJS</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">React</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">Angular</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">Flask</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">TensorFlow</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">NumPy</span>
+<span style="background-color:#0f111a; border-radius:10px; padding:4px 8px; margin:2px;">Pandas</span>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
