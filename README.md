@@ -1,4 +1,53 @@
-<h1 align="center">Hello, I'm <NAJM> YAHIA </NAJM> 👋</h1>
+<table>
+<tr>
+<td width="250" valign="top">
+
+<!-- Left Sidebar -->
+<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="200" style="border-radius:50%;" />
+
+<p>
+💻 Implementing Ideas @ YourCompany<br>
+🕵️‍♀️ Web Dev | Data Science | AI and ML<br>
+✍ DSA + CP (Learning and practicing)<br>
+🎓 CSE Graduand @ YourCollege
+</p>
+
+<p>
+282 followers · 1 following<br>
+YourCompany Inc.<br>
+Madhya Pradesh - India<br>
+21:54 - 4h30m ahead<br>
+<a href="mailto:youremail@gmail.com">youremail@gmail.com</a><br>
+<a href="https://your-portfolio-link.com">Portfolio</a><br>
+<a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a><br>
+<a href="https://twitter.com/yourtwitter">@yourtwitter</a>
+</p>
+
+<p>
+<b>Achievements</b><br>
+Achievement: Starstruckx2<br>
+Achievement: Quickdraw<br>
+Achievement: Pull Sharkx2<br>
+Achievement: YOLO
+</p>
+
+<p>
+<b>Highlights</b><br>
+Developer Program Member
+</p>
+
+<p>
+<b>Organizations</b><br>
+@org1 @org2 @org3
+</p>
+
+</td>
+
+<td valign="top">
+
+<!-- Right Column: Main Content -->
+
+<h1 align="center">Hello, I'm YOUR_NAME 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364ffda&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -6,14 +55,10 @@
 
 <h2 align="center">✨ If you can dream it, you can do it! 🔥</h2>
 
----
-
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" />
 </p>
-
----
 
 <h2 align="center">🛠️ My Favorite Tools</h2>
 
@@ -64,15 +109,11 @@
   <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" />
 </p>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
 
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
 <p align="center">
@@ -82,3 +123,7 @@
   <a href="https://instagram.com/YOUR_INSTAGRAM">📸 Instagram</a> •
   <a href="mailto:YOUR_EMAIL@gmail.com">✉️ Gmail</a>
 </p>
+
+</td>
+</tr>
+</table>
