@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/YAHINAJM">
-    <img src="https://img.shields.io/badge/Follow-YAHIANAJM-0f111a?style=for-the-badge&logo=github&logoColor=white" alt="Follow Button" />
+    <img src="https://img.shields.io/badge/Follow-YAHINAJM-0f111a?style=for-the-badge&logo=github&logoColor=white" alt="Follow Button" />
   </a>
 </p>
 
