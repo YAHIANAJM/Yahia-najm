@@ -14,7 +14,7 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Coding Animation" />
 
-typescript
+```typescript
 const yahia = {
   name: "Yahia Najm",
   location: "Casablanca, Morocco 🇲🇦",
